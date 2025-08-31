@@ -31,9 +31,9 @@
 
 ## 📊 GitHub Stats  
 
-![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=arnavjamidar&show_icons=true&theme=radical)  
+![Arnav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajamidar&show_icons=true&theme=radical)  
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arnavjamidar&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamidar&layout=compact&theme=radical)  
 
 ---
 
