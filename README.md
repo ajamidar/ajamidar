@@ -34,6 +34,8 @@
 
 ## 📊 GitHub Stats  
 
+![Metrics](https://metrics.lecoq.io/ajamidar?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe%2FLondon)
+
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajamidar&show_icons=true&theme=radical&v=1)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamidar&layout=compact&theme=radical&v=1)
