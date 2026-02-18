@@ -34,11 +34,12 @@
 
 ## 📊 GitHub Stats  
 
-![Metrics](https://metrics.lecoq.io/ajamidar?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Europe%2FLondon)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajamidar&theme=radical)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajamidar&show_icons=true&theme=radical&v=1)
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajamidar&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamidar&layout=compact&theme=radical&v=1)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajamidar&theme=radical)
+
 
 ---
 
