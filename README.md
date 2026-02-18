@@ -34,9 +34,9 @@
 
 ## 📊 GitHub Stats  
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajamidar&show_icons=true&theme=radical&cache_seconds=1800)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ajamidar&show_icons=true&theme=radical&v=1)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamidar&layout=compact&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajamidar&layout=compact&theme=radical&v=1)
 
 ---
 
