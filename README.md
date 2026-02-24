@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Arnav Jamidar  
 
 🎓 I’m a **2nd Year MEng Computer Science student at the University of York**.  
-💡 A passionate learner, I love exploring **computer science**, **machine learning**, and building **robust applications** that solve real-world problems.  
-[View my Portfolio](https://arnav-jamidar.vercel.app/)
+💡 Passionate learner, I love exploring **computer science**, **machine learning**, and building **robust applications** that solve real-world problems.  
+🧑‍💻 View my Portfolio: [Click here](https://arnav-jamidar.vercel.app/)
 
 ---
 
