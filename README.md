@@ -2,7 +2,7 @@
 
 🎓 I’m a **2nd Year MEng Computer Science student at the University of York**.  
 💡 A passionate learner, I love exploring **computer science**, **machine learning**, and building **robust applications** that solve real-world problems.  
-View my Portfolio : <a href = "https://arnav-jamidar.vercel.app/">Click here</a>
+View my Portfolio : <a href = "https://arnav-jamidar.vercel.app/" target="_blank">Click here</a>
 
 ---
 
